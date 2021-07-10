@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kr4ingod@gmail.com
+	name = Rui Moreira
